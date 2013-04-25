@@ -4,4 +4,4 @@
 apt-get update
 
 # deploy our apps!
-apt-get install apache2 mysql-server
+apt-get install apache2
